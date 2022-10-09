@@ -1,3 +1,4 @@
+msgbox"code by Nguyen Huy Hieu. tan huong di bro!"
 msgbox"nay cu tan vao nhung em dem toi nay"
 msgbox"cu tan trong man dem nay dam say"
 msgbox"cu chon vui lang lo vao sang mai"
@@ -6,4 +7,3 @@ msgbox"Da chuchu"
 msgbox"Da chuchu"
 msgbox"Da chuchu"
 msgbox"Da chuchu"
-
